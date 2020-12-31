@@ -37,7 +37,7 @@ const App=()=> {
     <div className="App">
       <div style={{height:150,backgroundColor:"#9370DB",color:"white",fontSize:20,fontFamily:"Bahnschrift Light"}}>
         <div className="column">
-          <b><br/><br/><FontAwesomeIcon icon={faArrowDown} /> Firebase Database Setup <FontAwesomeIcon icon={faArrowDown} /> </b>
+          <b><br/><br/><FontAwesomeIcon icon={faArrowDown} /> Database Setup <FontAwesomeIcon icon={faArrowDown} /> </b>
         </div>
         <div className="column">
           <b><br/><FontAwesomeIcon icon={faArrowDown} />     Select a date (Default - 7/8/2019)     <FontAwesomeIcon icon={faArrowDown} /></b><br/> <br/>      
